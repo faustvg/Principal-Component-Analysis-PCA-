@@ -1,4 +1,4 @@
-This code is part of a exercise from the subject Advance Programming.
+# Advance Programming - Exercise
 
 The goal of the first task in file pca.py is to make a Principal Component Analysis of the data that 
 is giving, the data is a .mat file containing the database with the Pacific Sea Surface Temperatures
